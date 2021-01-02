@@ -16,7 +16,7 @@ Text summarization is a language generation task of summarizing the input text i
 # Install
 This project requires Python 3.6 and the following Python libraries installed:
 
-#^  -NumPy
+-  NumPy
    -Pandas
    -Torchtext
    -Transformers
