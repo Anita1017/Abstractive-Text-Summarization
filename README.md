@@ -34,7 +34,11 @@ The dataset we used for this notebook is CNN/DM dataset which contains the docum
 -  T5
 
    This notebook demonstrates how to use huggingface’s transformers library to summarize any given text. T5 is an abstractive summarization            algorithm.
-  
-   
+# Rouge Scores
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
    
   
