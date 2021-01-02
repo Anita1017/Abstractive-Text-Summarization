@@ -13,6 +13,17 @@ The following is a summary of the commonly used NLP scenarios covered in the rep
 
 Text summarization is a language generation task of summarizing the input text into a shorter paragraph of text.
 
+# Install
+This project requires Python 3.6 and the following Python libraries installed:
+
+   -NumPy
+   -Pandas
+   -Torchtext
+   -Transformers
+   -py-rouge
+   -PyTorch
+   -sentencepiece
+
 # Dataset 
 The dataset we used for this notebook is CNN/DM dataset which contains the documents and accompanying questions from the news articles of CNN and Daily mail. The highlights in each article are used as summary. The dataset consits of ~289K training examples, ~11K valiation examples and ~11K test examples.
 
