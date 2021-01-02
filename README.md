@@ -28,9 +28,9 @@ This project requires Python 3.6 and the following Python libraries installed:
 The dataset we used for this notebook is CNN/DM dataset which contains the documents and accompanying questions from the news articles of CNN and Daily mail. The highlights in each article are used as summary. The dataset consits of ~289K training examples, ~11K valiation examples and ~11K test examples.
 
 # Models Used
-# 1. Bert
+# -  Bert
    This notebook demonstrates how to fine tune Bert Classifier for extractive text summarization. Utility functions and classes in the NLP Best Practices repo are used to            facilitate data preprocessing, model training, model scoring, result postprocessing, and model evaluation.
-# 2. T5
+# -  T5
    This notebook demonstrates how to use huggingface’s transformers library to summarize any given text. T5 is an abstractive summarization algorithm.
   
    
