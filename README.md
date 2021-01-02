@@ -29,9 +29,11 @@ The dataset we used for this notebook is CNN/DM dataset which contains the docum
 
 # Models Used
 -  Bert
-   This notebook demonstrates how to fine tune Bert Classifier for extractive text summarization. Utility functions and classes in the NLP Best Practices repo are used to            facilitate data preprocessing, model training, model scoring, result postprocessing, and model evaluation.
+
+   This notebook demonstrates how to fine tune Bert Classifier for extractive text summarization. Utility functions and classes in the NLP Best        Practices repo are used to facilitate data preprocessing, model training, model scoring, result postprocessing, and model evaluation.
 -  T5
-   This notebook demonstrates how to use huggingface’s transformers library to summarize any given text. T5 is an abstractive summarization algorithm.
+
+   This notebook demonstrates how to use huggingface’s transformers library to summarize any given text. T5 is an abstractive summarization            algorithm.
   
    
    
