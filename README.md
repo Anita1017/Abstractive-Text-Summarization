@@ -36,11 +36,11 @@ The dataset we used for this notebook is CNN/DM dataset which contains the docum
    This notebook demonstrates how to use huggingface’s transformers library to summarize any given text. T5 is an abstractive summarization            algorithm.
 # Rouge Scores
 
-| Rouge | f | p | r |
+| Model | ROUGE-1 | ROUGE-2 | ROUGE-L |
 | ------------- | ------------- | ------------- | ------------- |
-| Rouge-l  | 0.23  | 0.30  | 0.20  |
-| Rouge-1  | 0.28  | 0.39  | 0.24  |
-| Rouge-2  | 0.10  | 0.14  | 0.08  |
+| BERT-extractive (BERT+CLASSIFIER)  | 37.95  | 15.67  | 34.40  |
+| Hybrid BERT +T5  | 28.68  | 10.49  | 23.68  |
+
    
   
 # 
