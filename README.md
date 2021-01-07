@@ -39,7 +39,7 @@ The dataset we used for this notebook is CNN/DM dataset which contains the docum
 | Model | ROUGE-1 | ROUGE-2 | ROUGE-L |
 | ------------- | ------------- | ------------- | ------------- |
 | BERT-extractive (BERT+CLASSIFIER)  | 37.95  | 15.67  | 34.40  |
-| Hybrid BERT +T5  | 28.68  | 10.49  | 23.68  |
+| Hybrid BERT +T5  | 32.94  | 11.18  | 26.28  |
 
    
   
