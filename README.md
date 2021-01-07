@@ -43,10 +43,13 @@ The dataset we used for this notebook is CNN/DM dataset which contains the docum
 
    
   
-# 
+# STEPS:
+-  Execute Bert for Extractive Summarization
+-  Execute T5 for Abstractive Summarization
+-  Calculate Rouge score
  
  
-SUBMITTED BY:
+# SUBMITTED BY:
 -  Anita Choudhary
 -  Srishti Srivastava
 -  Prateek Sharma
